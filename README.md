@@ -8,3 +8,4 @@ The RegistrationFileReader.readCarDetails() method will read multiple data files
 I have not included any Java Design Patterns although I have used Builder and Singleton extensively.
 I did however include an interface to demonstrate understanding.
 Note that CommonPageObject abstracts the Selenium / WebDriver details away from the Page Objects - this I have found useful for expediting automation coding.
+The assertion library used is Hamcrest
